@@ -1,3 +1,3 @@
-module github.kyndryl.net/Luis-Cordero/my_go_packages
+module github.com/jair1823/gi-packages
 
 go 1.17
