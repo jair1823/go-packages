@@ -1,3 +1,3 @@
-module github.com/jair1823/gi-packages
+module github.com/jair1823/go-packages
 
 go 1.17
